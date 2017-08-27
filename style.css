@@ -1,17 +1,16 @@
-body{
+.box{ 
 	width: 400px;
 	height: 550px;
-}
-.box{ 
 	width: 376px; height: 526px;
-	margin: 10px 10px;
+	margin: auto;
 	border: 2px solid rgb(90, 90, 90);
 }
 h2{
 	font: 22px tahoma;
 	text-align: center;
 	font-weight: 500;
-	margin: 9px 0px 22px 0px;
+	width: 330px;
+	margin: 9px auto 22px;
 }
 .lenovo{
 	text-align: center;
